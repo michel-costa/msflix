@@ -1,101 +1,128 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Autoconhecimento",
+      "cor": "#0066ff",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Você já se perguntou quem é você?",
+        "url": "https://www.youtube.com/watch?v=9CuWwy1b9X4"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Carl Gustav Jung - Autoconhecimento",
+          "url": "https://www.youtube.com/watch?v=9Ka5lY0wn2I"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Hermetismo - História e os 7 Princípios",
+          "url": "https://www.youtube.com/watch?v=QozeVgask_g"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Arquétipos - As Criaturas Fantásticas do Inconsciente Coletivo",
+          "url": "https://www.youtube.com/watch?v=AZMi00qk2eo&list=PLPWfNH3DdJDirfsezsqUrLApM655SDFnX&index=7"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Introdução ao Hinduísmo - Karma, Dharma e Muito Mais!",
+          "url": "https://www.youtube.com/watch?v=2zVm9OwScBQ&list=PLPWfNH3DdJDj83PpoufpSWeeK-i7LDeQ8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Kabbalah Judaica - Introdução",
+          "url": "https://www.youtube.com/watch?v=cLdWj-Ts7rQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Árvore da Vida",
+          "url": "https://www.youtube.com/watch?v=ipAvcuS9w0Q"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "História de Freud: O Polêmico e Revolucionário Pai da Psicanálise",
+          "url": "https://www.youtube.com/watch?v=XcoUuBI64J8"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Tarot na Prática: Arcanos Como Ferramenta de Meditação",
+          "url": "https://www.youtube.com/watch?v=SmiP-BPXWVY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Espititualidade",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Aqui Você encontra tudo sobre Espiritualidade",
+        "url": "https://www.youtube.com/watch?v=a1aKbh877aI"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Falando de Espiritualidade | A vida é uma escola - Wagner Borges",
+          "url": "https://www.youtube.com/watch?v=y8rwrHJUJg4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Como conciliar a vida material e a espiritualidade",
+          "url": "https://www.youtube.com/watch?v=fljmSSsyzlQ&t=3s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Esquecimento de vidas Passadas e mundo espiritual",
+          "url": "https://www.youtube.com/watch?v=CmGjYDWNOms"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Waldo Vieira fala sobre Allan Kardec (Completo)",
+          "url": "https://www.youtube.com/watch?v=eysqcrav2CQ"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O que é Reiki",
+          "url": "https://www.youtube.com/watch?v=gZ_WW6_xiRU"
+        },
+        {
+          "titulo": "Meditação Zen- Budista | Monja Coen",
+          "url": "https://www.youtube.com/watch?v=r_oozyhRYQU"
+        },
+        {
+          "titulo": "Chakras: A Chave Para a Saúde e a Paz Interior!",
+          "url": "https://www.youtube.com/watch?v=9pWF4pZKGF0"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Tecnologias e Informação",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Já sonhou em aprender a criar e desenvolver seus próprios jogos!",
+        "url": "https://cursos.dankicode.com/curso-dev-games"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que vou aprender no curso? - Curso Raspberry Pi",
+          "url": "https://www.youtube.com/watch?v=CbIeFxsfgzk&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy&index=2"
+        },
+        {
+          "titulo": "Sumário, números de páginas e seção TCC/Monografia/Artigo",
+          "url": "https://www.youtube.com/watch?v=ejKzYNJoGM4"
+        },
+        {
+          "titulo": "A Inteligência Artificial que vai SUBSTITUIR os Programadores NÃO É TUDO ISSO! // Vlog #125",
+          "url": "https://www.youtube.com/watch?v=Eegnj0mY8OY&t=7s"
         },
         {
           "titulo": "O que é Data Science?",
           "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
         },
         {
+          "titulo": "Design UX/UI, Home Office, Dev em Cidade Pequena, Portfólio, Insegurança",
+          "url": "https://www.youtube.com/watch?v=RlK8nu_YErc"
+        },
+        {
           "titulo": "Melhor forma de aprender Python",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+          "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
+        },
+        {
+          "titulo": "Cisco Packet Tracer Linux🐧 - Como Instalar 2020s",
+          "url": "https://www.youtube.com/watch?v=yn7q_uIOSLs"
+        },
+        {
+          "titulo": "Falha GRAVE da UOL permite invasão por um simples envio de E-MAIL 🔥",
+          "url": "https://www.youtube.com/watch?v=Ud-Z3vrJKTk"
         }
       ]
     },
@@ -104,80 +131,106 @@
       "cor": "orange",
       "videos": [
         {
+          "titulo": "Vingadores: Ultimato | Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+        },
+        {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O Senhor dos Anéis A sociedade do Anel 2001 - Trailer (Legendado)",
+          "url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "VENOM 2 - Official Trailer | HD | Official | Trailer | Venom 2",
+          "url": "https://www.youtube.com/watch?v=LVxmb8fiS24"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "1917 – Trailer Oficial (Universal Pictures) HD",
+          "url": "https://www.youtube.com/watch?v=_3gy6K7LXHg"
+        },
+        {
+          "titulo": "O Livro de Eli - trailer legendado (HD) | Em Exibição",
+          "url": "https://www.youtube.com/watch?v=t3qJj_ljctE"
+        },
+        {
+          "titulo": "Velozes & Furiosos 9 – Trailer Oficial (Universal Pictures) HD",
+          "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
         }
       ]
     },
+    
     {
       "titulo": "Games",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "F1 Virtual Monaco Grand Prix LIVE!",
+          "url": "https://www.youtube.com/watch?v=OKvt9yoUL5k&list=PLfoNZDHitwjU1moRPhV163T1QHTpkui89&index=14"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Notícias do MFF - Atualização dos Inumanos e rework do Dormammu?!?",
+          "url": "https://www.youtube.com/watch?v=YdmH2p9W7Do"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Linkin Park Medal Of Honor E3 official Multiplayer gameplay trailer 2012",
+          "url": "https://www.youtube.com/watch?v=EtoU78d6j8g"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Call of Duty Black Ops 3 - O Filme (Dublado)",
+          "url": "https://www.youtube.com/watch?v=-mMkLgEaPd0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Halo Infinite - Official Gameplay Reveal Trailer",
+          "url": "https://www.youtube.com/watch?v=pTp3W0mlsJA"
+        },
+        {
+          "titulo": "Far Cry 6 - Official Reveal Trailer | Ubisoft Forward",
+          "url": "https://www.youtube.com/watch?v=-IJuKT1mHO8"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Musica Etetrônica",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "text": "Escolha o seu ritmo  eletrônico em venha dançar",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Universo Paralello Festival 2019 - 2020 | Vegas | By Up Audiovisual",
+          "url": "https://www.youtube.com/watch?v=Aq08gzpzVfk&t=89s"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Vegas @ Adhana Festival 2018/2019 | FULL VIDEO",
+          "url": "https://www.youtube.com/watch?v=NNPE_hyBbhg"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Phaxe @ Euphoria 14 anos / 2018 Haras dos Anjos",
+          "url": "https://www.youtube.com/watch?v=jomH1QbqHps&list=RDydKH6xNybWQ&index=3"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "EUPHORIA FESTIVAL 22/09/07- DVD OFICIAL",
+          "url": "https://www.youtube.com/watch?v=v_kNx_mGyvw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "GMS - Euphoria 13 Anos - A volta do Solo Sagrado",
+          "url": "https://www.youtube.com/watch?v=id-0nRjP8qU"
+        },
+        {
+          "titulo": "Bruno Be Live @ Kaballah Festival 15 anos (Hopi Hari) Set Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=TR5NRNH2HmM"
+        },
+        {
+          "titulo": "Abertura Vintage Culture Só Track Boa SP 06/09/2018",
+          "url": "https://www.youtube.com/watch?v=CmkdmaUgzmM&list=RDTR5NRNH2HmM&index=32"
+        },
+        {
+          "titulo": "Burning Man 2018",
+          "url": "https://www.youtube.com/watch?v=Sk_ANwT6cBI"
+        },
+        {
+          "titulo": "Ace Ventura @ Boom Festival 2018",
+          "url": "https://www.youtube.com/watch?v=OPHSN-apJr8&t=71s"
         }
       ]
     }
